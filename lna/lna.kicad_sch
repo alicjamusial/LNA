@@ -421,7 +421,6 @@
     )
   )
 
-
   (junction (at 52.07 40.64) (diameter 1.016) (color 0 0 0 0))
   (junction (at 52.07 53.34) (diameter 1.016) (color 0 0 0 0))
   (junction (at 62.23 40.64) (diameter 1.016) (color 0 0 0 0))
@@ -606,13 +605,13 @@
     )
   )
 
-  (symbol (lib_id "Device:L") (at 85.09 40.64 90) (unit 1)
+  (symbol (lib_id "Device:L") (at 85.09 40.64 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "d14bdfd7-723c-44eb-a88a-d24bcf6f1d60")
-    (property "Reference" "L2" (id 0) (at 86.4806 35.5599 90)
+    (property "Reference" "L2" (id 0) (at 83.6994 45.7201 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "120nH" (id 1) (at 84.969 38.1 90))
+    (property "Value" "120nH" (id 1) (at 85.211 43.18 90))
     (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (id 2) (at 85.09 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
