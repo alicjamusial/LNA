@@ -934,7 +934,7 @@
     (uuid "7cd1b49d-2904-4036-9173-3a8bf4b4b229")
     (property "Reference" "J3" (id 0) (at 179.9782 33.5153 0))
     (property "Value" "Conn_Coaxial" (id 1) (at 180.2195 36.0553 0))
-    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal" (id 2) (at 180.34 40.64 0)
+    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" (id 2) (at 180.34 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 180.34 40.64 0)
@@ -1030,7 +1030,7 @@
       (reference "J2") (unit 1) (value "V5-GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/7cd1b49d-2904-4036-9173-3a8bf4b4b229"
-      (reference "J3") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal")
+      (reference "J3") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
     )
     (path "/5c96d87d-8e59-4bd2-bdb2-f94bde9c9bde"
       (reference "L1") (unit 1) (value "3nH") (footprint "Inductor_SMD:L_0805_2012Metric")
