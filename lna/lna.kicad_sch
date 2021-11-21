@@ -936,7 +936,7 @@
     (property "Reference" "C1" (id 0) (at 54.9911 45.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TBD" (id 1) (at 54.991 48.139 0)
+    (property "Value" "30pF" (id 1) (at 54.991 48.139 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 53.0352 50.8 0)
@@ -1130,7 +1130,7 @@
       (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
     (path "/e3613cca-fb62-4c1e-9e92-3c0f2f895470"
-      (reference "C1") (unit 1) (value "TBD") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "30pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/4de7368e-cf8f-457d-894b-7cde015e5ae4"
       (reference "C2") (unit 1) (value "1pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
