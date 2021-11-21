@@ -52,12 +52,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "../models/SMA_Board_Edge_Molex_732511150.obj" hide
+  (model "../../models/SMA_Board_Edge_Molex_732511150.obj" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "../models/SMA_Board_Edge_Molex_732511150.wrl"
+  (model "../../models/SMA_Board_Edge_Molex_732511150.wrl"
     (offset (xyz 2.5 0 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 -90))
