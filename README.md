@@ -11,7 +11,7 @@ Gerber files for version 2.0 of Lynx is available [in the releases section](http
 The board was designed using [KiCad](https://kicad.org/) (version: `5.99.0-7233-g6a28d6af27`).
 
 ### ◾ Usage
-- **Very important!** Order PCB with **0.6mm** thickness!
+- **Very important!** Order PCB with **0.6mm** thickness and 1oz copper weight.
 - Lynx requires connection of 5V and GND.
 - It would be best to connect Lynx as close to the antenna as possible.
 
