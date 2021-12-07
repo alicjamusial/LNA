@@ -6,7 +6,7 @@
 
 **Lynx** is an LNA with a filter with two SMA connectors. It was designed for 400-400 MHz (UHF satellite amateur band) by default, but by changing components' values it can be tuned to every chosen frequency. It contains the amplifier (with PGA-103+ as the main component) and the bandpass Chelbyshev filter (shunt first, 2nd order).
  
-Gerber files for version 2.0 of Lynx is available [in the releases section](https://github.com/alicjamusial/argon/releases/tag/argon-1.0). 
+Gerber files for version 2.0 of Lynx is available [in the releases section](https://github.com/alicjamusial/LNA/releases/tag/release-2.0.0). 
 
 The board was designed using [KiCad](https://kicad.org/) (version: `5.99.0-7233-g6a28d6af27`).
 
